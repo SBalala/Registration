@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904212187602",
+    "project_id": "shaurma-4072f",
+    "storage_bucket": "shaurma-4072f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904212187602:android:5b5503cda4d7b85929600b",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904212187602-c8dgvn34mikm2lchukcuqdu0hitlht0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Oyixv68LaskfaCvt24QGh6DjjFuCGZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904212187602-c8dgvn34mikm2lchukcuqdu0hitlht0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
